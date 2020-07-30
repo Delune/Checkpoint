@@ -27,7 +27,8 @@ ASSIGN the variable named myFirstVariable with the data type null
 */
 
 var myFirstVariable;
-
+a;
+lksdjflakj;
 /*
 QUESTION 2
 
